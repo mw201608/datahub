@@ -14,7 +14,8 @@ type hic
 visibility dense
 
 
-track bigBarChart 
+track bigBed1
+type bigBarChart 
 shortLabel summary stats bigbar
 longLabel summary stats bigbar of Marioni2018_phase4
 barChartBars AD
