@@ -1,0 +1,25 @@
+track  bigWig1
+bigDataUrl https://github.com/marcoralab/datahub/raw/master/summary_stats/Marioni2018_phase4.chrall.CPRA_b37.bw 
+shortLabel summary stats
+longLabel summary stats of Marioni2018_phase4
+type bigWig
+graphType points
+visibility dense
+
+track hic1
+bigDataUrl https://github.com/marcoralab/datahub/raw/master/hic/1000G_phase3.EUR.chrall.CPRA_b37.ld.r2.hic
+shortLabel 1000G LD
+longLabel 1000G_phase3.EUR LD_R2
+type hic
+visibility dense
+
+
+track bigBarChart 
+shortLabel summary stats bigbar
+longLabel summary stats bigbar of Marioni2018_phase4
+barChartBars AD
+barChartMetric -log10(P) 
+barChartUnit Pvalue
+bigDataUrl https://github.com/marcoralab/datahub/raw/master/summary_stats/Marioni2018_phase4.chrall.CPRA_b37.prebigbar.6plus5.bigBed 
+barChartSampleUrl https://github.com/marcoralab/datahub/raw/master/summary_stats/Marioni2018_phase4.chrall.CPRA_b37.prebigbar.category.tsv
+visibility pack 
