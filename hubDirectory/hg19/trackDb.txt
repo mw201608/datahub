@@ -15,7 +15,7 @@ visibility dense
 
 
 track bigBed1
-type bigBarChart 
+type bigBed 
 shortLabel summary stats bigbar
 longLabel summary stats bigbar of Marioni2018_phase4
 barChartBars AD
