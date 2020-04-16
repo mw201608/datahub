@@ -22,4 +22,11 @@ longLabel summary stats bigbar of Marioni2018_phase4
 barChartBars AD
 barChartMetric -log10(P) 
 barChartUnit Pvalue
-visibility pack 
+visibility pack
+
+track test
+bigDataUrl: https://github.com/marcoralab/datahub/raw/master/summary_stats/track14652.txt
+type bedGraph
+shortLabel test
+longLabel lest
+ 
