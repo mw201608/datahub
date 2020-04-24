@@ -1,3 +1,4 @@
 *.bw filter=lfs diff=lfs merge=lfs -text
 *.hic filter=lfs diff=lfs merge=lfs -text
 *.bigBed filter=lfs diff=lfs merge=lfs -text
+*.bedGraph filter=lfs diff=lfs merge=lfs -text
