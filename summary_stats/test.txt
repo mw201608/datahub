@@ -1,5 +1,7 @@
+browser position chr1:54675-54676
+
 track type=bedGraph name="Manhattan Plot" description="Plot of -log10 association p-values" color=50,50,50 visibility=full alwaysZero=on graphType=bar yLineMark=7.301029995663981 yLineOnOff=on maxHeightPixels=60
-chr1	54675	54676	0.0422012
+chr1	54675	54676	8
 chr1	86027	86028	0.144299
 chr1	91535	91536	0.264321
 chr1	234312	234313	0.522445
