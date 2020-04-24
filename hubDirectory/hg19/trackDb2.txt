@@ -1,0 +1,5 @@
+track test
+bigDataUrl: https://github.com/marcoralab/datahub/raw/master/summary_stats/track14652.txt
+type bedGraph
+shortLabel test
+longLabel lest
