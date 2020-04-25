@@ -1,5 +1,5 @@
 hub MyHubsNameWithoutSpaces
 shortLabel MW
 longLabel Name up to 80 characters versus shortLabel limited to 17 characters
-genomesFile genomes2.txt
-email  myEmail@address
+genomesFile genomes.txt
+email  myEmail@address.com
