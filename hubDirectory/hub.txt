@@ -3,3 +3,4 @@ shortLabel MW
 longLabel Name up to 80 characters versus shortLabel limited to 17 characters
 genomesFile genomes.txt
 email  myEmail@address.com
+descriptionUrl https://github.com/mw201608/datahub

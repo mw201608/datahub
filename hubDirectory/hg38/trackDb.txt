@@ -1,0 +1,6 @@
+track GWAS_SUM_STAT
+bigDataUrl: https://raw.githubusercontent.com/mw201608/datahub/master/summary_stats/test.txt
+type bedGraph
+shortLabel GWAS SUM STAT
+longLabel GWAS SUM STAT
+ 
