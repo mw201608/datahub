@@ -1,6 +1,12 @@
-browser position chr2:112780064-112780064
+browser position chr2:112780064-112780074
 
-track type=bedGraph name="My Manhattan Plot" description="Plot of -log10(association p-values)" color=50,50,50 visibility=full alwaysZero=on graphType=bar yLineMark=7.301029995663981 yLineOnOff=on maxHeightPixels=60
+track type=bedGraph name="Manhattan Plot 1" description="Plot of -log10(association p-values)" color=50,50,50 visibility=full alwaysZero=on graphType=bar yLineMark=7.301029995663981 yLineOnOff=on maxHeightPixels=60
 chr2	112780064	112780064	4.679853713888946
 chr2	112780074	112780074	6.679853713888946
 chr2	112780174	112780174	8.679853713888946
+
+
+track type=bedGraph name="Manhattan Plot 2" description="Plot of -log10(association p-values)" color=50,50,50 visibility=full alwaysZero=on graphType=bar yLineMark=7.301029995663981 yLineOnOff=on maxHeightPixels=60
+chr2	112780070	112780072	7
+chr2	112780100	112780110	7.5
+chr2	112780174	112780174	8
